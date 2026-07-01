@@ -54,13 +54,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kartikeyyyy8&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikeyyyy8&theme=radical" />
-</p>
 
----
 
 ## 📫 Connect With Me
 - 📧 Email: kartikeyyyy8@gmail.com  
